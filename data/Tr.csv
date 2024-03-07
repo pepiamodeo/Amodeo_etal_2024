@@ -1,0 +1,27 @@
+"Species","Species_ID","Genus","SubFamily","Family","Order","Class","Division","GrowthForm","LeafPhenology","LeafShape","RootDepth","SLA","Shade","Sexual_System","dispcat","leng","sdm","seeds","kjg","pcw"
+"Asparagus acutifolius","AspAcu","Asparagus","Asparagoideae","Liliaceae","Asparagales","Liliopsida","Magnoliophyta ","liana","evergreen","needle-like",0.09,10.523,"SN","dioecious","Birds","6.5",0.04,"2-5",NA,"56.2"
+"Asparagus albus","AspAlb","Asparagus","Asparagoideae","Liliaceae","Asparagales","Liliopsida","Magnoliophyta ","shrub","winter deciduous","needle-like",0.31,14.631,"SN","hermaphrodite","Birds","5.8",0.03,"2-5",16.07,"61.3"
+"Asparagus horridus","AspHor","Asparagus","Asparagoideae","Liliaceae","Asparagales","Liliopsida","Magnoliophyta ","liana","evergreen","needle-like",0.175,2.269,"N","dioecious","Birds","6",0.0257,"2-5",NA,"60"
+"Berberis vulgaris","BerVul","Berberis","Berberidoideae","Berberidaceae ","Ranunculales ","Magnoliopsida","Magnoliophyta","shrub","winter deciduous","broad",1,NA,"SN","hermaphrodite","Birds","10.4",0.02,"2-5",17.75,"69"
+"Chamaerops humilis","ChaHum","Chamaerops","Coryphoideae","Arecaceae","Arecales","Liliopsida","Magnoliophyta ","large shrub","evergreen","linear",NA,6.53,"SN","monoecious","Mammals","14.5",0.67,"one-seeded",17.12,"23.9"
+"Crataegus monogyna","CraMon","Crataegus","Amygdaloideae","Rosaceae ","Rosales","Magnoliopsida","Magnoliophyta ","large shrub","winter deciduous","broad",0.453,13.53,"SN","hermaphrodite","Mixed","12.1",0.12,"one-seeded",16.91,"56.4"
+"Daphne gnidium","DapGni","Daphne",NA,"Thymelaeaceae ","Malvales","Magnoliopsida","Magnoliophyta ","shrub","evergreen","linear",1.2,11.011,"SN","hermaphrodite","Birds","6.2",0.01,"one-seeded",16.91,"81.9"
+"Ephedra fragilis","EphFra","Ephedra",NA,"Ephedraceae","Ephedrales","Gnetopsida","Gnetophyta","large shrub","evergreen","scale-like",0.165,2.213,"N","dioecious","Mixed","10",0.0092,"2-5",NA,"15"
+"Juniperus communis","JunCom","Juniperus",NA,"Cupressaceae ","Pinales","Pinopsida","Pinophyta","large shrub","evergreen","needle-like",NA,6.66,"SN","dioecious","Mixed","12",NA,"2-5",NA,"29"
+"Juniperus oxycedrus","JunOxy","Juniperus",NA,"Cupressaceae ","Pinales","Pinopsida","Pinophyta","large shrub","evergreen","needle-like",1.68,6.5,"N","dioecious","Mixed","12",0.09,"2-5",NA,"21"
+"Juniperus phoenicea","JunPho","Juniperus",NA,"Cupressaceae ","Pinales","Pinopsida","Pinophyta","large shrub","evergreen","scale-like",2.5,5.85,"N","monoecious","Mixed","14",0.016,"2-5",NA,"12"
+"Lonicera implexa","LonImp","Lonicera",NA,"Caprifoliaceae","Dipsacales ","Magnoliopsida","Magnoliophyta ","liana","evergreen","broad",NA,9.14,NA,NA,"Birds","7.2",0.04,"2-5",16.45,"54.3"
+"Lycium intricatum","LycInt","Lycium","Solanoideae","Solanaceae","Solanales","Magnoliopsida","Magnoliophyta ","shrub",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Olea europaea var. sylvestris","OleEur","Olea",NA,"Oleaceae ","Lamiales","Magnoliopsida","Magnoliophyta ","large shrub","evergreen","broad",0.89,7.105,"N","hermaphrodite","Birds","11.8",0.22,"one-seeded",26.37,"49.7"
+"Osyris alba","OsyAlb","Osyris",NA,"Santalaceae","Santalales","Magnoliopsida","Magnoliophyta ","large shrub","evergreen","linear",NA,7.62,NA,NA,"Birds","8.3",0.1,"one-seeded",16.99,"60"
+"Osyris lanceolata","OsyLan","Osyris",NA,"Santalaceae","Santalales","Magnoliopsida","Magnoliophyta ","large shrub","evergreen",NA,NA,2.837,NA,NA,"Birds","9",NA,NA,NA,NA
+"Pistacia lentiscus","PisLen","Pistacia","Rhoideae","Anacardiaceae","Sapindales","Magnoliopsida","Magnoliophyta ","large shrub","evergreen","broad",0.5,6.46,"N","dioecious","Birds","5.2",0.03,"one-seeded",30.01,"46.8"
+"Prunus spinosa","PruSpi","Prunus","Amygdaloideae","Rosaceae","Rosales","Magnoliopsida","Magnoliophyta ","large shrub","winter deciduous","broad",NA,10.7,NA,NA,"Mixed","12.7",0.24,"one-seeded",16.49,"68.9"
+"Rhamnus alaternus","RhaAla","Rhamnus","Rhamneae","Rhamnaceae","Rosales","Magnoliopsida","Magnoliophyta ","large shrub","evergreen","broad",NA,8.69,NA,NA,"Birds","5.9",0.04,"2-5",16.24,"55.8"
+"Rhamnus lycioides","RhaLyc","Rhamnus","Rhamneae","Rhamnaceae","Rosales","Magnoliopsida","Magnoliophyta ","large shrub","winter deciduous","linear",0.3,10.77,"N","hermaphrodite","Birds","5.7",0.03,"2-5",16.87,"53.2"
+"Rhamnus saxatilis","RhaSax","Rhamnus","Rhamneae","Rhamnaceae","Rosales","Magnoliopsida","Magnoliophyta ","shrub","winter deciduous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosa sp","RosSp","Rosa","Rosoideae","Rosaceae","Rosales","Magnoliopsida","Magnoliophyta ","shrub","winter deciduous","broad",0.5,14.37,"SN","hermaphrodite","Mixed","15",0.1,">5",16.62,"55.2"
+"Rubia peregrina","RubPer","Rubia","Rubioideae","Rubiaceae","Gentianales","Magnoliopsida","Magnoliophyta ","liana","evergreen","broad",0.075,17.74,"SN","hermaphrodite","Birds","5.8",0.01,"2-5",18.17,"76.9"
+"Sorbus domestica","SorDom","Sorbus","Maloideae","Rosaceae","Rosales","Magnoliopsida","Magnoliophyta ","tree","winter deciduous","broad",NA,NA,NA,NA,"Mammals","21.1",0.05,"2-5",16.74,"52"
+"Withania frutescens","WitFru","Withania","Solanoideae","Solanaceae","Solanales","Magnoliopsida","Magnoliophyta ","shrub","winter deciduous",NA,0.5,21.266,NA,NA,NA,NA,NA,NA,NA,NA
+"Ziziphus lotus","ZizLot","Ziziphus",NA,"Rhamnaceae","Rosales","Magnoliopsida","Magnoliophyta ","shrub",NA,NA,NA,NA,NA,NA,"Mammals","17.3",0.35,"one-seeded",16.7,"49.8"
