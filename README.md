@@ -7,7 +7,7 @@ Authors:
 * Zapata-Pérez, V.
 * Robledano-Aymerich, F. 
 
-This is a temporary repository for review purposes. The final version will preserved by Zenodo at publication.
+This repository is preserved by Zenodo.
 
 ### Project description
 
